@@ -1,4 +1,6 @@
 # ember new super-rentals
+# npm install
+# bower install
 # cd super-rentals
 # echo "Open a second terminal"
 # ember server
@@ -22,3 +24,4 @@
 # echo "Restart second terminal's Last command"
 # ember test --server
 # ember g model rental
+# ember g component rental-listing
