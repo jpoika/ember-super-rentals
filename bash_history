@@ -25,3 +25,4 @@
 # ember test --server
 # ember g model rental
 # ember g component rental-listing
+# ember g helper rental-property-type
