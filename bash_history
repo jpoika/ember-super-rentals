@@ -21,3 +21,4 @@
 # ember server
 # echo "Restart second terminal's Last command"
 # ember test --server
+# ember g model rental
